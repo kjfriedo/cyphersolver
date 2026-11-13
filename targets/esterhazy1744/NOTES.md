@@ -170,3 +170,17 @@ Context, not evidence for this letter: Mardefeld's own memorandum says Goldbach 
 ### Archive request, 3 Nov 2026
 
 Jozef Krajčovič sent the enquiry to the GStA PK on 3 Nov 2026. It asks about Mardefeld's report of 5 Oct 1744 (Rep. 96 Nr. 55 D/C; Rep. 11 Nr. 171-175 Moskau, Konv. 46), the form it survives in, the rescript of 15 Sept 1744, any cipher key, and a quote for digital copies. No reply yet. The archive says it does not usually confirm receipt.
+
+## 13 Nov 2026: GStA reply — the report exists, with a marginal decipherment
+
+Reply from the GStA PK (Stephan Utpatel, Referat II 1. a, Geschäftszeichen 653#00002#1090#0004), received 13 Nov 2026:
+
+- **I. HA Rep. 96, Nr. 55 D** (Mardefeld correspondence, July–Dec 1744), **Bl. 57r–v**: "einen teilweise chiffrierten Bericht Mardefelds vom 5. Oktober 1744. Am Rand des Berichtes befindet sich ein Text, bei dem es sich wahrscheinlich [um] die entschlüsselten Passagen handelt." The rescript the report answers is not in that file. Scans can be ordered (minimum fee €4).
+- **I. HA Rep. 11 Auswärtige Beziehungen, Akten Nr. 6749**: Mardefeld's reports, Aug–Dec 1744 (ministerial series). Not viewable until about January 2027 (repository works).
+- **I. HA Rep. 81 Gesandtschaft St. Petersburg I, Nr. 13** (rescripts to Mardefeld, 1743–1744) and **Nr. 14** (1743–1746): may hold the rescript of 15 Sept 1744.
+- **I. HA Rep. 9 Allgemeine Verwaltung, L 8 b** (Chiffres, 1744–1745): includes a cipher for Mardefeld dated 1745. Only one found for him.
+- The files are not digitised; on-site use by appointment through Actapro.
+
+**What this changes.** A report from Mardefeld, Moscow, 5 Oct 1744, partly enciphered, is now confirmed to exist. That supports the sender hypothesis strongly, but it is not yet proof that the Esterházy sheet is a copy of the same text: the clear passages and the groups must still be compared on the scan.
+
+**Next step.** Order scans of Rep. 96 Nr. 55 D, Bl. 57r–v. If the clear text and the groups match, the marginal decipherment gives the plaintext (method: *key from external plaintext*; the Berlin copy is a separate document from the Bratislava sheet). Then order the 1745 Mardefeld cipher (Rep. 9 L 8 b) to test whether it is the same code, and look for the rescript of 15 Sept in Rep. 81 Nr. 13/14.
