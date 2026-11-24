@@ -19,3 +19,4 @@
 - 2026-11-13: scan order sent to the GStA PK (Rep. 96 Nr. 55 D, Bl. 57 VS+RS, 2x TIFF, 8 EUR), with a question on the folios of the 1745 Mardefeld cipher in Rep. 9 L 8 b. Awaiting invoice and scans.
 - 2026-11-18: GStA (Zeichen 653#00002#1090#0006): scan order for Rep. 96 Nr. 55 D Bl. 57 passed to the digitisation workshop; invoice first, download link after payment, up to six weeks. Archivist will add the folios to an order for the 1745 Mardefeld cipher (Rep. 9 L 8 b).
 - 2026-11-18: order for the 1745 Mardefeld cipher (I. HA Rep. 9, L 8 b) sent to the GStA PK; folios and count left for the archivist to fill. Awaiting cost estimate.
+- 2026-11-24: GStA (Zeichen 653#00002#1090#0009): the 1745 Mardefeld cipher in Rep. 9 L 8 b needs about 25 scans; quote about 100 EUR as TIFF or about 12.50 EUR as JPG. JPG recommended.
